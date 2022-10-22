@@ -1,7 +1,7 @@
 My JavaBootCamp Project
 Mücahit GÖKÇE from Istanbul...GitHub...@justmucahid
 
-2nd Weeek HWcode .
+2nd Weeek HWcodes .
 
 for CONTACT mgokceteoman@gmail.com
 
